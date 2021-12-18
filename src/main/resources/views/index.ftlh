@@ -30,6 +30,12 @@
 					A controller is defined using ng-controller directive.
 				</p>
 			</p>
+			<p>
+				<a href='/?view=filter'>Tutorial 4 - Filter</a>
+				<p>
+					Filters are used to modify the data. They can be clubbed in expression or directives using pipe (|) character. 
+				</p>
+			</p>
 		</div>
 		<script
 			src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
