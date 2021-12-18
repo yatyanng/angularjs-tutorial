@@ -68,6 +68,26 @@
 					We can use ng-click event to handle the click button and use $dirty and $invalid flags to do the validation in a seamless way. 
 				</p>
 			</p>
+			<p>
+				<a href='/?view=include'>Tutorial 9 - Include</a>
+				<p>
+					Using AngularJS, we can embed HTML pages within an HTML page using ng-include directive.
+				</p>
+			</p>
+			<p>
+				<a href='/?view=ajax'>Tutorial 10 - AJAX</a>
+				<p>
+					AngularJS provides $http control which works as a service to read data from the server. 
+				</p>
+			</p>
+			
+			<p>
+				<a href='/?view=routing'>Tutorial 11 - Routing</a>
+				<p>
+					AngularJS supports Single Page Application via multiple views on a single page. <br/>
+					To do this, AngularJS has provided ng-view and ng-template directives, and $routeProvider services.
+				</p>
+			</p>
 		</div>
 		<script
 			src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>

@@ -2,8 +2,6 @@
 <html>
    <head>
       <title>AngularJS Forms</title>
-      <script src = "https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
-      
       <style>
          table, th , td {
             border: 1px solid grey;
@@ -73,6 +71,9 @@
          </form>
       </div>
       
+      <script
+				src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js">
+			</script>
       <script>
          var mainApp = angular.module("mainApp", []);
          
