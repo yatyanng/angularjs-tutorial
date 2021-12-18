@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.example</groupId>
 	<artifactId>angularjs-tutorial</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>AngularJS Tutorial</name>
 	<description>https://www.tutorialspoint.com/angularjs/index.htm</description>
 	<properties>
@@ -69,7 +69,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<version>${spring.boot.version}</version>
 				<configuration>
-					<mainClass>com.example.vcnf.webrtc.Boot</mainClass>
+					<mainClass>com.example.angularjs.Boot</mainClass>
 					<addResources>true</addResources>
 				</configuration>
 				<executions>

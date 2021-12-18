@@ -5,7 +5,7 @@
    </head>
    
    <body>
-      <h1>Sample Application</h1>
+      <h1>AngularJS Directives</h1>
       
       <div ng-app = "" ng-init = "countries = [{locale:'en-US',name:'United States'}, 
          {locale:'en-GB',name:'United Kingdom'}, {locale:'en-FR',name:'France'}]"> 
