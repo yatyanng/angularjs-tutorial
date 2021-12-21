@@ -82,12 +82,20 @@
 			</p>
 			
 			<p>
-				<a href='/?view=routing'>Tutorial 11 - Routing</a>
+				<a href='/?view=route_colors'>Tutorial 11A - Routing 1</a>
 				<p>
 					AngularJS supports Single Page Application via multiple views on a single page. <br/>
 					To do this, AngularJS has provided ng-view and ng-template directives, and $routeProvider services.
 				</p>
 			</p>
+			
+			<p>
+				<a href='/?view=route_pages'>Tutorial 11B - Routing 2</a>
+				<p>
+					Instead of routing the local script tags, we will try to route to external pages.
+				</p>
+			</p>
+			
 			<p>
 				<a href='/?view=scope'>Tutorial 12 - Scopes</a>
 				<p>
