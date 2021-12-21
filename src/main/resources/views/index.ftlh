@@ -88,6 +88,27 @@
 					To do this, AngularJS has provided ng-view and ng-template directives, and $routeProvider services.
 				</p>
 			</p>
+			<p>
+				<a href='/?view=scope'>Tutorial 12 - Scopes</a>
+				<p>
+					Scope is a special JavaScript object that connects controller with views.<br/>
+					Scope contains model data. In controllers, model data is accessed via $scope object.
+				</p>
+			</p>
+			<p>
+				<a href='/?view=service'>Tutorial 13 - Service</a>
+				<p>
+					Scope is a special JavaScript object that connects controller with views.<br/>
+					Scope contains model data. In controllers, model data is accessed via $scope object.
+				</p>
+			</p>
+			<p>
+				<a href='/?view=dependency_injection'>Tutorial 14 - Dependency Injection</a>
+				<p>
+					Dependency Injection is a software design in which components are given their dependencies<br/>
+					 instead of hard coding them within the component.
+				</p>
+			</p>
 		</div>
 		<script
 			src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>

@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.example</groupId>
 	<artifactId>angularjs-tutorial</artifactId>
-	<version>1.0.2</version>
+	<version>1.0.3</version>
 	<name>AngularJS Tutorial</name>
 	<description>https://www.tutorialspoint.com/angularjs/index.htm</description>
 	<properties>
